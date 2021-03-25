@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopping-react/static/css/main.1c23fea6.chunk.css",
+    "main.js": "/shopping-react/static/js/main.c608887e.chunk.js",
+    "main.js.map": "/shopping-react/static/js/main.c608887e.chunk.js.map",
+    "runtime-main.js": "/shopping-react/static/js/runtime-main.77169eb3.js",
+    "runtime-main.js.map": "/shopping-react/static/js/runtime-main.77169eb3.js.map",
+    "static/js/2.1ce6bef9.chunk.js": "/shopping-react/static/js/2.1ce6bef9.chunk.js",
+    "static/js/2.1ce6bef9.chunk.js.map": "/shopping-react/static/js/2.1ce6bef9.chunk.js.map",
+    "index.html": "/shopping-react/index.html",
+    "precache-manifest.e68274a577b4e9d858bae69f7d378058.js": "/shopping-react/precache-manifest.e68274a577b4e9d858bae69f7d378058.js",
+    "service-worker.js": "/shopping-react/service-worker.js",
+    "static/css/main.1c23fea6.chunk.css.map": "/shopping-react/static/css/main.1c23fea6.chunk.css.map",
+    "static/js/2.1ce6bef9.chunk.js.LICENSE.txt": "/shopping-react/static/js/2.1ce6bef9.chunk.js.LICENSE.txt",
+    "static/media/hero-bcg-2.jpeg": "/shopping-react/static/media/hero-bcg-2.64f4f610.jpeg",
+    "static/media/hero-bcg.jpeg": "/shopping-react/static/media/hero-bcg.1f293b1b.jpeg",
+    "static/media/logo.svg": "/shopping-react/static/media/logo.b2b8d556.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77169eb3.js",
+    "static/js/2.1ce6bef9.chunk.js",
+    "static/css/main.1c23fea6.chunk.css",
+    "static/js/main.c608887e.chunk.js"
+  ]
+}
